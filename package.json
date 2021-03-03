@@ -8,13 +8,19 @@
     "start": "npm run lite",
     "lite": "lite-server"
   },
-    "repository": {
+  "repository": {
     "type": "git",
     "url": "https://github.com/QU01/BootstrapCourseHKUST.git"
   },
   "author": "Nick Vazquez",
   "license": "ISC",
   "dependencies": {
-    "lite-server": "^2.6.1"
+    "bootstrap": "^4.0.0",
+    "jquery": "^3.3.1",
+    "lite-server": "^2.6.1",
+    "popper.js": "^1.12.9"
+  },
+  "devDependencies": {
+    "bootstrap": "^4.0.0"
   }
 }
