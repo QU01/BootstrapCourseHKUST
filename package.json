@@ -1,0 +1,20 @@
+{
+  "name": "bootstrap-course",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npm run lite",
+    "lite": "lite-server"
+  },
+    "repository": {
+    "type": "git",
+    "url": "https://github.com/QU01/BootstrapCourseHKUST.git"
+  },
+  "author": "Nick Vazquez",
+  "license": "ISC",
+  "dependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
